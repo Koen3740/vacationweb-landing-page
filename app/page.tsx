@@ -1,10 +1,9 @@
-export default function Page() {
+// app/page.tsx
+export default function HomePage() {
   return (
-    <main style={{ padding: '2rem', fontFamily: 'sans-serif' }}>
-      <h1>Meer vakantie voor jouw budget</h1>
-      <p>
-        Ontdek de beste vakanties van meerdere reisaanbieders, volledig op maat van jouw budget en voorkeuren.
-      </p>
-    </main>
+    <div>
+      <h1>Welkom bij VacationWeb</h1>
+      <p>Vind de beste vakanties voor jouw budget!</p>
+    </div>
   )
 }
