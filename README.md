@@ -1,1 +1,1 @@
-# VacationWeb Landing Page.
+# VacationWeb Landing Page
