@@ -1,1 +1,0 @@
-# VacationWeb Landing Page
