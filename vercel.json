@@ -1,4 +1,6 @@
 {
   "version": 2,
-  "builds": [{ "src": "app/page.tsx", "use": "@vercel/next" }]
+  "builds": [
+    { "src": "package.json", "use": "@vercel/next" }
+  ]
 }
